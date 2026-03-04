@@ -1,11 +1,8 @@
 - 👋 Hi, I’m Anurag Soni.
 - 👀 I’m interested in cyber security and web developement
 - 🌱 I’m currently learning web developement.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that makes me learn new things.
 - 📫 How to reach me -> IG: _anur1g_
 - ⚡ Fun fact: I was suspended from my school for deleting all its server data.
 
-<!---
-anur1g5473/anur1g5473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
