@@ -1,18 +1,117 @@
-# 💫 About Me:
-<br># Hi there, I'm Anurag Soni! 👋<br><br>I am a first-year B.Tech Computer Science student specializing in Cybersecurity at VIT Vellore. I love  building things (web development) and breaking/securing them (cybersecurity). <br><br>Currently, I am balancing my coursework with hands-on research in ASIC design and image processing, while also gearing up for capture-the-flag (CTF) competitions.<br><br> 🚀 What I'm Up To<br>💻 Building: Currently developing my semi-advanced websites and experimenting with AI API integrations.<br>🛡️ Learning: Prepping for industry-standard cybersecurity certifications (CompTIA Security+, CEH, and OSCP).<br>🔬 Researching: Diving deep into ASIC design and image processing.<br><br>## 🛠️ Tech Stack & Skills<br>Languages: C, C++, Python, JavaScript, HTML/CSS & react, node'<br>Web Development: Front and back-end development (backed by a 3-month industry internship)<br>Core Concepts: Object-Oriented Programming, Data Structures & Algorithms, operating systems.<br><br>## 📫 Let's Connect<br>> "Building secure solutions, one line of code at a time."
+<h1 align="center">Hi 👋, I'm Anurag Soni</h1>
+<h3 align="center">B.Tech Cybersecurity @ VIT Vellore · Full-Stack Developer · AI Agents & IoT Systems</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anur1gsoni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anurag.soni2025@vitstudent.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/anur1g5473"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anur1g5473&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anur1g5473&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anur1g5473&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anur1g5473&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=anur1g5473&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🎓 B.Tech in **Cybersecurity** at VIT Vellore, Class of 2029 — CGPA 8.7
+- 🛠️ Full-stack developer across **React / Next.js**, **Python / FastAPI**, and **Supabase**-backed systems
+- 🤖 Most recently built **DisputeShield**, an AI chargeback-evidence agent for Razorpay's AI Buildathon 2026 — 90% recommendation accuracy on a 100-case benchmark
+- 🚦 Also work at the intersection of **computer vision and hardware** — built an AI traffic controller combining YOLOv8 detection with a real Arduino rig
+- 🔐 Security-minded by training — I harden my own projects with JWT, bcrypt, rate-limiting, and HMAC-signed auth flows
+- 🌱 Currently prepping for CompTIA Security+ / CEH and exploring digital design in Verilog/VHDL
+- 📫 Reach me at **anurag.soni2025@vitstudent.ac.in**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+### 🧩 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anur1g5473/Razorpay"><b>💳 DisputeShield</b></a><br/>
+      AI agent that evaluates chargeback evidence and drafts bank-ready dispute letters. 90% accuracy & 100% recall on a 100-case benchmark, sub-millisecond latency.<br/>
+      <sub><b>Stack:</b> FastAPI · Next.js · Gemini/OpenAI APIs</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anur1g5473/ASTC"><b>🚦 AI Traffic Controller</b></a><br/>
+      Computer-vision + hardware traffic arbitration for single-lane bottlenecks — YOLOv8 detection, anti-starvation scheduling, and a real Arduino-driven signal rig.<br/>
+      <sub><b>Stack:</b> FastAPI · React · YOLOv8 · Arduino</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anur1g5473/StudyTrack"><b>📚 StudyTrack</b></a><br/>
+      Full-stack study-management platform used by 200+ active students — progress tracking, analytics, and a built-in Pomodoro timer.<br/>
+      <sub><b>Stack:</b> React · TypeScript · Supabase</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anur1g5473/WEB-GUIDE"><b>🎨 WEB-GUIDE</b></a><br/>
+      78+ interactive UI pattern demos — scroll animation, 3D CSS, glassmorphism — built with zero external animation libraries.<br/>
+      <sub><b>Stack:</b> React 19 · TypeScript · Vite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anur1g5473/cyberlog"><b>🛡️ CyberLog</b></a><br/>
+      Security-hardened portfolio/blog with defense-in-depth admin auth: timing-safe bcrypt checks, HMAC-signed CAPTCHAs, brute-force lockout.<br/>
+      <sub><b>Stack:</b> Next.js · Supabase · Tailwind CSS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anur1g5473/CHATBOT_anur1g"><b>⚙️ AI Engine</b></a><br/>
+      Reusable serverless chatbot backend proxying the Gemini API behind a single secured endpoint, shared across multiple front ends.<br/>
+      <sub><b>Stack:</b> Vercel Functions · Gemini API</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=anur1g5473&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anur1g5473&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=anur1g5473&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+### 🏆 Achievements & Certifications
+
+- 🥇 **Razorpay AI Buildathon 2026** — Built DisputeShield (Track 02: AI Risk Manager)
+- 🏁 Competed in **Gravitas** and **Riviera**, VIT's flagship hackathons
+- 📜 Cybersecurity Certification — Cisco Networking Academy (NetAcad) *— In Progress*
+- 📜 Web Development Certification — Unlox (3-month internship program)
+- 📜 Ethical Hacking — NPTEL *— In Progress*
+
+<br>
+
+<p align="center">
+  <i>"Building secure solutions, one line of code at a time."</i>
+</p>
