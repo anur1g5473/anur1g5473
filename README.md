@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in **Cybersecurity** at VIT Vellore, Class of 2029 — CGPA 8.7
+- 🎓 B.Tech in **Cybersecurity** at VIT Vellore, Class of 2029 — CGPA 7.7
 - 🛠️ Full-stack developer across **React / Next.js**, **Python / FastAPI**, and **Supabase**-backed systems
 - 🤖 Most recently built **DisputeShield**, an AI chargeback-evidence agent for Razorpay's AI Buildathon 2026 — 90% recommendation accuracy on a 100-case benchmark
 - 🚦 Also work at the intersection of **computer vision and hardware** — built an AI traffic controller combining YOLOv8 detection with a real Arduino rig
