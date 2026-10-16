@@ -17,15 +17,11 @@
 
 ### 🔐 About Me
 
-- 🎓 B.Tech in **Cybersecurity** at VIT Vellore, Class of 2029 — CGPA 7.7
-- 🛡️ I build **security tooling and hardened systems** — recon scanners, CVE checkers, and defense-in-depth auth flows — alongside full-stack products in **React / Next.js**, **Python / FastAPI**, and **Supabase**
-- 🛰️ Recently built **ReconDeck**, a local-first DNS reconnaissance workbench with structured findings, coverage reporting, and JSON/Markdown/HTML exports
-- 🧰 Maintain **bugz-tools**, a set of CLI utilities for authorized bug-bounty and recon work (host/path fetching, CVE scanning, GitHub-derived wordlists)
-- 🤖 Also built **DisputeShield**, an AI chargeback-evidence agent for Razorpay's AI Buildathon 2026 — 90% recommendation accuracy on a 100-case benchmark
-- 🚦 Work at the intersection of **computer vision and hardware** — an AI traffic controller combining YOLOv8 detection with a real Arduino rig
-- 🔑 Security-minded by default — JWT, bcrypt, rate-limiting, HMAC-signed flows, timing-safe comparisons, and loopback/token-gated local apps across my projects
-- 🌱 Currently prepping for **CompTIA Security+ / CEH**, and exploring digital design in Verilog/VHDL
-- 📫 Reach me at **anurag.soni2025@vitstudent.ac.in**
+- 🎓 Cybersecurity student at VIT Vellore (Class of 2029).
+- 🛠️ I like building practical security tools and web apps, mostly with Python, React, and Next.js.
+- 🛰️ Lately, I've been working on ReconDeck, a local tool for exploring and organizing DNS reconnaissance results.
+- 🚦 I also enjoy projects that mix software with hardware, like a YOLOv8 traffic-control demo connected to an Arduino.
+- 🌱 Currently studying for Security+ and learning Verilog and VHDL.
 
 <br>
 
@@ -35,48 +31,48 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/ReconDeck"><b>🛰️ ReconDeck</b></a><br/>
-      Local-first DNS reconnaissance workbench — DNS/DNSSEC/mail-record checks, WHOIS, nameserver tracing, live scan UI, and exportable findings reports, served entirely from your own machine with token-gated loopback access.<br/>
+      A local app for checking DNS records, WHOIS details, and nameserver paths. Scan results can be exported as JSON, Markdown, or HTML.<br/>
       <sub><b>Stack:</b> Python · Flask · dig/whois · vanilla JS</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/bugz-tools"><b>🧰 bugz-tools</b></a><br/>
-      CLI toolkit for authorized security testing — multi-host/path fetch-and-triage, a BIG-IP CVE-2020-5902 scanner, and a GitHub-repo-to-wordlist generator for content discovery.<br/>
+      A collection of Python command-line tools for authorized testing, including URL checks, a BIG-IP CVE-2020-5902 scanner, and a wordlist generator.<br/>
       <sub><b>Stack:</b> Python · requests · threaded scanning</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/cyberlog"><b>🛡️ CyberLog</b></a><br/>
-      Security-hardened portfolio/blog with defense-in-depth admin auth: timing-safe bcrypt checks, HMAC-signed CAPTCHAs, brute-force lockout.<br/>
+      My portfolio and blog, with extra protections around the admin login, including bcrypt, signed CAPTCHAs, and rate limiting.<br/>
       <sub><b>Stack:</b> Next.js · Supabase · Tailwind CSS</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/Razorpay"><b>💳 DisputeShield</b></a><br/>
-      AI agent that evaluates chargeback evidence and drafts bank-ready dispute letters. 90% accuracy & 100% recall on a 100-case benchmark, sub-millisecond latency.<br/>
+      A project for Razorpay's AI Buildathon 2026 that reviews chargeback evidence and drafts dispute letters. It scored 90% accuracy and 100% recall on a 100-case benchmark.<br/>
       <sub><b>Stack:</b> FastAPI · Next.js · Gemini/OpenAI APIs</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/ASTC"><b>🚦 AI Traffic Controller</b></a><br/>
-      Computer-vision + hardware traffic arbitration for single-lane bottlenecks — YOLOv8 detection, anti-starvation scheduling, and a real Arduino-driven signal rig.<br/>
+      A traffic-control demo using YOLOv8 and an Arduino to manage a single-lane road, with scheduling designed to avoid leaving either direction waiting too long.<br/>
       <sub><b>Stack:</b> FastAPI · React · YOLOv8 · Arduino</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/StudyTrack"><b>📚 StudyTrack</b></a><br/>
-      Full-stack study-management platform used by 200+ active students — progress tracking, analytics, and a built-in Pomodoro timer.<br/>
+      A study planner used by 200+ students, with progress tracking, analytics, and a Pomodoro timer.<br/>
       <sub><b>Stack:</b> React · TypeScript · Supabase</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/WEB-GUIDE"><b>🎨 WEB-GUIDE</b></a><br/>
-      78+ interactive UI pattern demos — scroll animation, 3D CSS, glassmorphism — built with zero external animation libraries.<br/>
+      More than 78 UI demos, including scroll effects and 3D CSS, built without animation libraries.<br/>
       <sub><b>Stack:</b> React 19 · TypeScript · Vite</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/anur1g5473/CHATBOT_anur1g"><b>⚙️ AI Engine</b></a><br/>
-      Reusable serverless chatbot backend proxying the Gemini API behind a single secured endpoint, shared across multiple front ends.<br/>
+      A serverless endpoint that lets multiple front ends use the Gemini API through one backend.<br/>
       <sub><b>Stack:</b> Vercel Functions · Gemini API</sub>
     </td>
   </tr>
@@ -114,7 +110,7 @@
 
 <br>
 
-### 📊 GitHub Stats <sub><i>(live — refresh to see them update)</i></sub>
+### 📊 GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=anur1g5473&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -129,7 +125,7 @@
 
 <br>
 
-### 🐍 Contribution Snake <sub><i>(animates the last year of commits — see setup note below)</i></sub>
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anur1g5473/anur1g5473/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
